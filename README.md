@@ -3,7 +3,7 @@
 Simple Flask Contact list app with CRUD operations.
 
 ## setup
-- Clone the repository : 
+- Clone the repository : https://github.com/ni3choudhary/Flask-Contact-List-App-Deployment.git
 - Create Python Virtual Environment and activate it using below commands 
 ```console
 $ mkdir flaskapp
@@ -11,7 +11,7 @@ $ cd flaskapp
 $ python3 -m venv env
 ``` 
 
-Activate it
+Activate Virtual Environment
 ```console
 $ .env/bin/activate
 ```
@@ -23,3 +23,6 @@ $ pip install -r requirements.txt
 ```console
 $ python app.py
 ```
+
+The App is deployed to heroku --
+https://flask-contact-list-app.herokuapp.com/
