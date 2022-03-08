@@ -4,10 +4,8 @@ Simple Flask Contact list app with CRUD operations.
 
 ## setup
 - Clone the repository : https://github.com/ni3choudhary/Flask-Contact-List-App-Deployment.git
-- Create Python Virtual Environment and activate it using below commands 
+- Inside the project root directory, Create Python Virtual Environment and activate it using below commands 
 ```console
-$ mkdir flaskapp
-$ cd flaskapp
 $ python3 -m venv env
 ``` 
 
